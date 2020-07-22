@@ -27,4 +27,4 @@
 - The folder named 'dataset' consists of the datas we have used to train our model. 
 
 
-### Contributors- https://github.com/Haimantika :woman: https://github.com/chingri :man:
+### Contributors- https://github.com/Haimantika :woman: https://github.com/GM1957 :man:
